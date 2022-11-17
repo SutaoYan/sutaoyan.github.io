@@ -1,2 +1,1 @@
-#2022
-## Java Virtual Machine
+# [Blog](sutaoyan.github.id/blog/)
