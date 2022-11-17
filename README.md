@@ -1,1 +1,1 @@
-# [Blog](sutaoyan.github.id/blog/)
+# [Blog](blog/)
